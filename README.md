@@ -50,3 +50,12 @@
             ]
         }
     ]
+4. 用到的模块
+  * element里面的
+    * Layout 布局
+    * Form 表单
+    * Table 表格
+    * Tree 树形控件
+    * Pagination 分页
+    * Dialog 对话框
+  * 将这些模块进行封装
