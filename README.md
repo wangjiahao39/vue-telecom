@@ -4,4 +4,4 @@
 
 2. 整个项目使用vue-cli的脚手架
 
-  * npm init webpack telecom
+   * npm init webpack telecom
