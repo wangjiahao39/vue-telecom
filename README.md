@@ -5,9 +5,10 @@
 2. 整个项目使用vue-cli的脚手架
 
    * npm init webpack telecom
-   * yarn add vuex axios mockjs element-ui
+   * yarn add vuex axios mockjs element-ui（除了脚手架以外所用的组件）
    
 3. 路由
+
    * 项目使用了二级路由对页面进行处理
    * routes: [
         {
@@ -51,6 +52,7 @@
         }
     ]
 4. 用到的模块
+
   * element里面的
     * Layout 布局
     * Form 表单
@@ -58,4 +60,9 @@
     * Tree 树形控件
     * Pagination 分页
     * Dialog 对话框
-  * 将这些模块进行封装
+  * 将这些模块进行封装，调用
+  
+5. 开发过程中遇到的问题
+
+  * 登录页需要进行导航守卫，提高安全性能
+  * 
