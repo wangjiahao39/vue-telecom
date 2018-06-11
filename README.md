@@ -10,23 +10,17 @@
 3. 路由
    * 项目使用了二级路由对页面进行处理
    * routes: [
-   
         {
         
             path: '/login',
-            
             name: 'Login',
-            
             component: Login
         },
-        
         {
+        
             path: '/home',
-            
             name: 'home',
-            
             component: Home,
-            
             children:[
                 {
                     path: 'staff',
