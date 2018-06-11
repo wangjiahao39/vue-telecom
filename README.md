@@ -1,29 +1,7 @@
 # 项目总结
 
+1. 整个项目使用vue框架完成，并结合vuex以及用vue-router做数据管理
 
-## Build Setup
+2. 整个项目使用vue-cli的脚手架
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+  * npm init webpack telecom
