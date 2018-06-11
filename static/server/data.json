@@ -1,0 +1,90 @@
+{
+    "code": 1,
+    "data": [
+        {
+            "id": "1",
+            "level": 1,
+            "name": "组织权限管理",
+            "submenus": [
+                {
+                    "id": "1",
+                    "level": 2,
+                    "name": "员工账号管理",
+                    "type": "staff"
+                },
+                {
+                    "id": "2",
+                    "level": 2,
+                    "name": "配置业务字典",
+                    "type": "dictionaries"
+                },
+                {
+                    "id": "3",
+                    "level": 2,
+                    "name": "应用功能管理",
+                    "type": "apply"
+                },
+                {
+                    "id": "4",
+                    "level": 2,
+                    "name": "组织机构管理",
+                    "type": "institutional"
+                }
+            ],
+            "type": "management"
+        },
+        {
+            "id": "2",
+            "level": 1,
+            "name": "我的工作",
+            "submenus": [
+                {
+                    "id": "1",
+                    "level": 2,
+                    "name": "员工账号管理",
+                    "type": "staff"
+                },
+                {
+                    "id": "2",
+                    "level": 2,
+                    "name": "配置业务字典",
+                    "type": "dictionaries"
+                },
+                {
+                    "id": "3",
+                    "level": 2,
+                    "name": "应用功能管理",
+                    "type": "apply"
+                }
+            ],
+            "type": "myjob"
+        },
+        {
+            "id": "3",
+            "level": 1,
+            "name": "客户管理",
+            "submenus": [
+                {
+                    "id": "1",
+                    "level": 2,
+                    "name": "员工账号管理",
+                    "type": "staff"
+                },
+                {
+                    "id": "2",
+                    "level": 2,
+                    "name": "配置业务字典",
+                    "type": "dictionaries"
+                },
+                {
+                    "id": "3",
+                    "level": 2,
+                    "name": "应用功能管理",
+                    "type": "apply"
+                }
+            ],
+            "type": "client"
+        }
+    ],
+    "type": "admin"
+}
